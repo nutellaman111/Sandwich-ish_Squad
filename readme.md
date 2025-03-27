@@ -1,7 +1,6 @@
 # Sandwich-ish Squad
 
-hi this is my first mod ever!!  
-it was supposed to be all sandwich themed but i ran out of ideas halfway ♥
+Reposition vek to form delicious death sandwiches
 
 ![Preview](https://i.imgur.com/l0Dgmfy.png)
 
@@ -21,11 +20,14 @@ enjoy the following very compressed gifs:
 
 ## Yapping
 
+hi this is my first mod ever!!  
+it was supposed to be all sandwich themed but i ran out of ideas halfway ♥
+
 thank you to the itb modding community for helping me on the discord-  
 and for making tons of cool mods that i copied code from a wee bit here and there ♥
 
 idk if im gonna do bug fixing, balancing or make any more mods in the future-  
-but i would still love to hear what u think of this squad!!
+but i would still love to hear what u think of this squad and see how you play it!!!!
 
 ### me:
 

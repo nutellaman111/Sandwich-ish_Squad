@@ -59,9 +59,9 @@ function mod:load(options, version)
    	 "nutellaman111_launcher",			 -- mech #2
    	 id="nutellaman111_sandSquad"
     },
-    "hiiii",
-    "Reposition vek and form delicious death sandwiches",
-    self.resourcePath.."img/mod_icon.png"
+    "Sandwich-ish Squad",
+    "Reposition vek to form delicious death sandwiches",
+    self.resourcePath.."img/squad_icon.png"
     )
 
 end
